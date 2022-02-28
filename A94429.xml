@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his Highness the Lord Protector, &amp;c. and our general. The humble petition of several colonels of the army.</title>
+            <author>Saunders, Thomas, Colonel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94429</idno>
+            <idno type="STC">Wing T1369A</idno>
+            <idno type="STC">Thomason 669.f.19[21]</idno>
+            <idno type="STC">ESTC R205535</idno>
+            <idno type="EEBO-CITATION">99864885</idno>
+            <idno type="PROQUEST">99864885</idno>
+            <idno type="VID">163359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163359)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his Highness the Lord Protector, &amp;c. and our general. The humble petition of several colonels of the army.</title>
+                  <author>Saunders, Thomas, Colonel.</author>
+                  <author>Okey, John, d. 1662.</author>
+                  <author>Alured, Mathew.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Thomas Saunders. John Okey. Matthevv Allured.</note>
+                  <note>"Protesting against the establishement of a standing army under the command of a single person"--Thomason Catalogue.</note>
+                  <note>In this edition the word "general" in line 1 of title is in full italic capital letters.</note>
+                  <note>Annotation on Thomason copy: "October. 18: 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Armed Forces --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163359:1" rendition="simple:additions"/>
+            <head>To his Highneſs the <hi>LORD PROTECTOR, &amp;c.</hi> and our <hi>GENERAL.</hi> The humble Petition of ſeveral <hi>Colonels</hi> of the <hi>Army,</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>THat as Members of the Army we have ſolemnly declared (not without Appeals to God for our ſincerity therein) <hi>that we did engage in judgment and conſcience for</hi>
+               <note place="margin">
+                  <hi>See the Decl. of</hi> June 14. 1647.</note> 
+               <hi>the juſt Rights and Liberties of our Country, and not as a Mercenary Army:</hi> Yet our high eſtimation, and tender regard of, and great confidence in your Highneſs, who hath engaged with us in the ſame Quarrel, hath made us attend in ſilence your Councels and Determinations to the utmoſt extremity.</p>
+            <p>But finding you to have been of late upon tranſactions of higheſt moment, whereupon the life or death of a good cauſe, and the Publike Intereſt of the Commonwealth doth depend; and that the price of our blood is brought to the utmoſt <hi>Criſis</hi> of danger, we hold our ſelves obliged in conſcience and duty, to God, our Country, and your ſelf, to teſtifie to your Highneſs the integrity of our hearts, in adhering to that old cauſe mentioned in our Publike Declarations and Engagements to the Parliament and People; and humbly to minde your Highneſs of the Tyranny againſt which we engaged, and of the Fundamental Rights and Freedomes we intended to redeem out of the Tyrants hands, with the price of our blood: And in this, we ſhall confine our ſelves to that, <hi>whereunto the whole Army by their General Councel agreed,</hi> not only before, but alſo after that high exemplary Juſtice done upon the late King for his Tyranny and Oppreſſion.</p>
+            <p>And in order to bring him to Juſtice, we then declared his Tyranny to conſiſt in his oppoſition of the Supreme Truſt of Parliaments, concerning the Peoples ſafety in their<note place="margin">
+                  <hi>See the Remon<g ref="char:EOLhyphen"/>ſtrance from</hi> S. Albons, No<g ref="char:EOLhyphen"/>vem. 16. 1648. <hi>p.</hi> 14, 15, 16, 17, 18, 19.</note> abſolute command of the <hi>Militia,</hi> when they judged it neceſſary, and of their purſes to raiſe moneys, and of their Power to call all Officers of Juſtice, and Miniſters of State to accompt, he pretending that none of theſe Powers might be exerciſed without him; and that the Peoples choſen Truſtees in Parliament, could not provide for the peoples ſafety and welfare, but at, and according to his pleaſure; and that whatſoever he did either with the <hi>Militia</hi> which he challenged, or whatſoever miſchiefs againſt the people, neither Parliaments, or any Power on earth could call to an accompt, attach, or meddle with his Sacred Perſon.</p>
+            <p>And we then alſo declared, that the Publike Intereſt of Right and Freedome originally contended for by us, <hi>were conſtant ſucceſſive Parliaments, to be freely and e<g ref="char:EOLhyphen"/>qually</hi>
+               <note place="margin">P. 14, 19.</note> 
+               <hi>choſen by the People, as their Repreſentors for all matters of Supreme Truſt and concernment, both for ſafety and welfare; and that thoſe Parliaments ſhould have the Supreme Power and Truſt in all civil things whatſoever, in making Laws, Conſtitutions, and Offices, and removing of any publike grievances, and in giving final judgment concerning War or Peace, and the whole ſafety and welfare of the People.</hi>
+            </p>
+            <p>
+               <hi>And that nothing ſhould be impoſed upon, or taken from the People, but by their Parliaments: and if any attempts be made otherwiſe, that the People ſhould not</hi>
+               <note place="margin">See p. 8.</note> 
+               <hi>be bound thereby but free.</hi>
+            </p>
+            <p>
+               <hi>And that no perſon whatſoever ſhould be exempt from accompt unto, or</hi> puniſhment by <hi>the Peoples Parliaments.</hi>
+            </p>
+            <p>That principle of the Kings <hi>unaccomptableneſs</hi> being the grand root of Tyranny, and declared by us, <hi>to be begotten by the blasphemous arrogancy of Tyrants, upon their ſervile Paraſites.</hi>
+            </p>
+            <p>Now our Conſciences bearing us witneſs, that we have dipt our hands in blood in this cauſe, and that the blood of many thouſands hath been therein ſhed by our means, we tremble and fear before the Lord, in the ſence of that accompt we muſt render for all that precious blood, if we ſhould by ſilence give away the freedome purchaſed for our Coun<g ref="char:EOLhyphen"/>try at ſo dear a rate, or be inſtruments to ſubject the people unto the ſame, or the like kinde of thraldome, from which God hath delivered then by ſo many ſignal providences, (little leſs then Miracles.)</p>
+            <p>We having therefore ſeriouſly and ſadly conſidered the preſent great tranſactions, and the Government, in the ſettlement whereof our aſſiſtance is required, and are preſſed in our Conſciences to declare to your Highneſs in all humbleneſs and ſoberneſs of minde, that we ſadly reſent the dangerous conſequences of eſtabliſhing that Supreme Truſt of the <hi>Militia</hi> at leaſt for the ſpace of two years and an ha<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f, of every three years in a ſingle Perſon, and a Councel of his own, whom he may controul by a Negative voice at his pleaſure.</p>
+            <p>And alſo that during the Seſſion of Parliaments the ſingle Perſons intereſt therein ſhall be paramount to the intereſt of Parliaments, and this Power to be over ſuch a <hi>Militia,</hi> as the late King durſt not claim; that is to ſay, <hi>A ſtanding Army,</hi> which may in a ſhort tract of time, by the policy of any Single Perſon that ſhall ſucceed, be made wholly Mercenary, and be made uſe of to deſtroy at his pleaſure the being of Parliaments, and render all the blood and treaſure expended in this cauſe, not only fruitleſs, but us and our Po<g ref="char:EOLhyphen"/>ſterities under an abſolute Tyranny and Vaſſallage, both in our conſciences, perſons, and eſtates, the danger being beyond compariſon higher (if any ſuch ſingle perſon be corrupt) then it could have been to have allowed the late Kings Claim to that <hi>Aneient Militia,</hi> which was, <hi>to command the Country to Array,</hi> the Arms being in the Countryes own cuſtody, and themſelves, or men of their own chuſing to bear them, who had no particular intereſt to oblige them to obey any of the Kings illegal commands againſt themſelves and their Country; whereas a <hi>ſtanding Army under a ſingle perſon,</hi> which in time cannot rationally be ſuppoſed to be otherwiſe then Mercenary, will have an in<g ref="char:EOLhyphen"/>tereſt of ſubſiſtance and preferment, in oppoſition to the Commonwealths Intereſt, to oblige them to his commands.</p>
+            <p>And many late examples have evidenced to the whole world, That ſuch a commander of the <hi>Militia,</hi> will at his pleaſure be Maſter of all Parliaments, Freedomes, and reſolu<g ref="char:EOLhyphen"/>tions, and of all our Birth-Rights now purchaſed by our blood, eſpecially conſidering, that according to that which is impoſed upon the preſent Parliament, no Parliaments ſhall ever dare to propoſe any thing againſt a ſingle perſons Command of the <hi>Militia,</hi> if he ſhould refuſe, during their Seſſion, to diſpoſe the ſame as they ſhall adviſe:</p>
+            <p>So that whatſoever proviſions are ſeemingly made, either for juſt liberty of conſcience, or for ſecuring the property of our perſons, or eſtates, they are all made void <hi>ſecretly in this,</hi> and ſubjected only to the mercy and will of any ſucceeding ſingle perſon, whoſe heart may be corrupted with ambition, covetouſneſs, luſt, pride, or deſire of Domination.</p>
+            <p>And upon the ſame accompt we are ſenſible, that the next greateſt Part of the Publike Intereſt engaged for, which is <hi>the Legiſlative Power in Parliaments to make or re<g ref="char:EOLhyphen"/>peal Lawes, conſtitute Offices, and to make War or Peace,</hi> even this ſhall depend upon the will and pleaſure of the ſingle perſon: for he ſh<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll not only have a challenge of a ſhare in the Legiſlative Power, but an abſolute Negative Voice to all Bills containing any thing in them contrary to the matters contained in the Government; under which pretence, a corrupted ſingle Perſon may, under a colour of Right, prevent any Bill paſſing into a Law, by averring, that ſomthing therein is contraryto the Government: But if<note place="margin">See the Govern<g ref="char:EOLhyphen"/>ment, Article 24.</note> any Bill whatſoever paſs into a Law, without the ſingle Perſons conſent, it muſt be by the Parliaments Declaration againſt him, that he is obſtinate, and will not conſent to the Bill, though he cannot ſatisfie them why he ſhould not; and how probable it is, that the Parliament ſhall dare to declare in ſuch manner againſt him that hath the Command of thirty thouſand men obliged to him for their pay and preferment, we conceive every conſiderate man may judg: And beſides, how dangerous a clog this will be upon the Pow<g ref="char:EOLhyphen"/>er of Parliaments, when no Law can be made without the ſingle Perſons conſent, without hazard of a War, by ſo declaring againſt him, as muſt render him odious to the people, which is not to be ſuppoſed will be born by him.</p>
+            <p>And how little leſs this is in effect then an <hi>abſolute Negative Voice,</hi> (the oppoſing whereof in the late King, coſt ſo much blood) is not hard to j<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dg.</p>
+            <p>And if the ſingle Perſon ſhould attempt the higheſt Tyranny upon the People, ſuch is the Power veſted in him, and in ſuch a manner, that the Parliament cannot execute Juſtice upon him according to his Demerits, unleſs it ſhall be ſuppoſed, that contrary to nature, he ſhall aſſent to have Juſtice done upon himſelf; for the Parliament cannot by the Go<g ref="char:EOLhyphen"/>vernment make a Law to take away the Command of the <hi>Militia</hi> from the ſingle Perſon without his own conſent, and how then can they proceed to <hi>higher Acts of Juſtice</hi> againſt him, if cauſe be? But indeed the Power veſted in him, renders him able to protect himſelf from Juſtice, as the late King might have done, (ſpeaking as men) if he had<note place="margin">
+                  <hi>See the Remon<g ref="char:EOLhyphen"/>ſtrance of</hi> No<g ref="char:EOLhyphen"/>vemb. 1648. <hi>From</hi> S. Albons</note> been guarded by a <hi>ſtanding Army,</hi> payed, and preferred by him, and the honeſt People, without any formed Forces or Arms, as now. And this, we conceive, to be of perpe<g ref="char:EOLhyphen"/>tual prejudice to the Publike Intereſt, for which we engaged. <hi>For the power of puniſhment, and the ſubjection of every perſon unto Juſtice,</hi> is that eſſential part of Publike Intereſt, which is the Fence and Guard of all the reſt in the depraved eſtate of mankinde.</p>
+            <p>And in regard of our former aſſerting that Ancient Freedome of our Country that no moneys ſhould be levied upon them, but by Parliaments: We ſadly apprehend the evil<note place="margin">See the Govern<g ref="char:EOLhyphen"/>ment, Article 27.</note> conſequences that may enſue upon the Power of the ſaid Protector, and his Councel, to levy upon the people ſo much moneys, as will maintain a Fleet and an Army of 30000. men, and 200000 <hi>l. per annum</hi> over and above, that the way of levying the ſame muſt not be altered, but by the conſent of the ſucceeding Protectors.</p>
+            <p>Now having in our deepeſt thoughts conſcientiouſly weighed the Premiſes, calling to minde our former Declarations to the People, with our Proteſtations and Appeals to God in our ſtreights, That we did in the integrity of our hearts, ſeek only the ſecurity of the Publike Intereſt of Right and Freedome, and not the advancement of our ſelves, or any particular party or intereſt; and conſidering, that we have born up the Name of God in our Undertakings, and have done all in his Name; and finding in our apprehenſions the Publike Intereſt of Right and Freedome ſo far from ſecurity, that the firſt Foundations thereof are unſetled, and the Gates are open, that may lead us into endleſs troubles and hazards, the Government not being clearly ſetled, either upon the bottom of the <hi>Peoples Conſent, Truſt, or Contract,</hi> nor a Right of <hi>Conqueſt,</hi> the honeſt People of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> not being conquered, nor upon an immediate divine deſignation; and our ears being filled daily with taunts, reproaches, and ſcandals, upon <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he profeſſion of honeſty, un<g ref="char:EOLhyphen"/>der colour that we have pretended the Freedomes of our Country, and made large profeſſions againſt ſeeking our private intereſts, while we intended only to ſet up our ſelves.</p>
+            <p>Theſe things thus meeting together, do fill our hearts with trouble and ſadneſs, and make us cautious of taking upon our ſelves raſhly any new Engagements, although none ſhall more faithfully ſerve your Highneſs in all juſt deſigns then your Petitioners: And we are hereby enforced to make this humble Addreſs, and to pray your Highneſs moſt ſe<g ref="char:EOLhyphen"/>rious thoughts of that high price of blood and treaſure which the Commonwealth hath paid for, <hi>it's Right and Freedom,</hi> which was naturally and morally due unto it before, and of the accompt that muſt be given to the dreadful God for all the blood we have ſhed; and that we can be deemed no better then <hi>Murderers,</hi> if the integrity of our hearts in the proſecution of the juſt ends of the War, do not render us juſtifiable therein: and to the intent, that the whole Publike Intereſt contended for, may be certainly ſecured to the People, and our Conſciences diſcharged in that great duty: That a full and trulyfree Parliament may without any impoſition upon their Judgments and Conſciences, freely conſi<g ref="char:EOLhyphen"/>der of thoſe <hi>Fundamental Rights</hi> and <hi>Freedomes</hi> of the Commonwealth, that were the firſt Subject of this great Conteſt, which God hath decided on our ſide, according as the ſame have been propoſed to the late Parliament by the General Councel of the Army, in the <hi>Agreement of the People,</hi> which remains there upon Record: That by the aſſiſtance and direction of God they may ſettle the Government of the Commonwealth, and the wayes of Adminiſtration of Juſtice, and ſecure our dearly-bought freedome of our Conſciences, perſons, and eſtates, againſt all future attempts of tyranny; and ſuch a ſettlement will ſtand upon a <hi>Baſis</hi> undoubtedly juſt by the Laws of God and man; and therefore more likely to continue to us and our Poſterities: And in your Highneſs proſecution of theſe great ends of the expence of all the blood and treaſure in theſe three Nati<g ref="char:EOLhyphen"/>ons, your Petitioners ſhall freely hazard their lives and eſtates in your juſt defence.</p>
+            <closer>And ſhall ever pray, &amp;c.
+<signed>THOMAS SAUNDERS.</signed>
+               <signed>JOHN OKEY.</signed>
+               <signed>MATTHEVV ALLURED.</signed>
+This Petition was ſubſcribed and owned by theſe three, and had been by many more Colonels of the Army, if the <hi>Lord Protector</hi> had not upon ſearch of Col. <hi>Allureds</hi> Chamber taken it away, and impriſoned him for two daies, whereby any further Subſcriptions were prevented.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
